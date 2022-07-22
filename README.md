@@ -1,7 +1,7 @@
 # 项目原作地址： 
 https://blog.csdn.net/tiancao222/article/details/104375924
 
-# 本Git库的原因：
+# 创建本Git库的初衷：
 鉴于原作者将代码上传到csdn需要积分才能下载，故提交到github便于后期下载，如有侵权可联系我删除，谢谢。
 
 # 项目简介：
