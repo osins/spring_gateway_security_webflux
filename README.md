@@ -1,3 +1,9 @@
+# 项目原作地址： 
+https://blog.csdn.net/tiancao222/article/details/104375924
+
+# 本Git库的原因：
+鉴于原作者将代码上传到csdn需要积分才能下载，故提交到github便于后期下载，如有侵权可联系我删除，谢谢。
+
 # 项目简介：
 1.本项目为SpringCloud Gateway的微服务框架，整合了SpringSecurity，微服务间使用Redis来获取登陆的用户信息。
 2.由于Gateway采用的是纯Webflux方式，所以原有的Spring基于传统拦截器、过滤器的方式无法正常使用SpringSecurity。
