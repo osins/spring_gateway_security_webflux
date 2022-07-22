@@ -2,7 +2,7 @@
 https://blog.csdn.net/tiancao222/article/details/104375924
 
 # 创建本Git库的初衷：
-鉴于原作者将代码上传到csdn需要积分才能下载，故提交到github便于后期下载，如有侵权可联系我删除，谢谢。
+鉴于原作者将代码上传到csdn需要积分才能下载，故提交到github便于后期下载，如有侵权可联系我删除，在这里对原作者表示给感谢，谢谢分享。
 
 # 项目简介：
 1.本项目为SpringCloud Gateway的微服务框架，整合了SpringSecurity，微服务间使用Redis来获取登陆的用户信息。
